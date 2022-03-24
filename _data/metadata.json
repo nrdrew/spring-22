@@ -1,10 +1,10 @@
 {
-  "title": "Cy",
+  "title": "Nathan Drew",
   "url": "https://iastate.edu/",
   "language": "en",
-  "description": "Cy is a mascot",
+  "description": "Husband and father of four girls! #GirlDad",
   "feed": {
-    "subtitle": "Cy is a mascot",
+    "subtitle": "Nathan Drew is a #GirlDad",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://iastate.edu/"
@@ -14,9 +14,9 @@
     "url": "https://iastate.edu/feed/feed.json"
   },
   "author": {
-    "name": "Cy",
-    "email": "cy@iastate.edu",
+    "name": "Nathan",
+    "email": "Nathan@DrewRealtyUSA.com",
     "url": "https://iastate.edu/about-me/",
-    "twitter": "iastate"
+    "twitter": "@NathanRDrew"
   }
 }
