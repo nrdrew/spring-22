@@ -1,27 +1,13 @@
 ---
 title: Copper Crossing in Des Moines, IA
 description: Copper Crossing is a new single family development coming in Des Moines in Fall, 2022!
-date: 2018-05-01
+date: 2022-04-01
 tags:
   - another tag
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Copper Crossing – a New Construction Home Community in Des Moines, IA (with Southeast Polk Schools)
+Copper Crossing is Des Moines’ newest new construction home community!  The neighborhood encompasses 32 acres, which will accommodate 143 new home sites.  There are a range of sizes and zoning types, from single family residential, to bi-attached homes, up to the highly sought-after new construction townhomes!  Don’t forget that the subdivision is within the wonderful Southeast Polk School District.
+Buyers can bring their own builder for their new construction home in Copper Crossing, or they can use one of our builders!  If you’re looking to buy a lot in Des Moines and/or the Southeast Polk School District, Copper Crossing is the neighborhood for you!
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Copper Crossing
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
