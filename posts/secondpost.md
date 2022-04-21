@@ -1,18 +1,13 @@
 ---
 title: How to Read a Plat Map
 description: Reading a plat map can be hard!  Here's how to do it... in layman's terms!
-date: 2018-07-04
+date: 2022-04-01
 tags:
   - number 2
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+How to Read a Plat Map
 
-## Reading a Plat Map
-
-<a href="{{ '/posts/firstpost/' | url }}">First post</a>
-<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+All buyers of new construction homes should have a grip on what that home is being built on… their lot!  Land development is fascinating, however, when a person starts reading into the engineered drawings of the lots, it can be a bit overwhelming!  
+Not to worry!  Your lot expert, Nathan Drew, is here to help!  Being able to read a plat map is not only helpful for new construction, it shows the “lay of the land” for all real estate, and prior to purchasing, a buyer should have a good idea of what they are buying, from the ground up!
+To start, on the first page of the plat map, at the top, it will have the name of the subdivision.  As an example, “Woodland Estates Plat 1”…
